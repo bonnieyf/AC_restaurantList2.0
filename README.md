@@ -1,3 +1,4 @@
+![screencapture-localhost-3000-2021-07-18-21_11_56](https://user-images.githubusercontent.com/3711787/126068661-19f5d5a9-0219-4d7c-a557-546ba009ae43.png)
 
 # Restaurant List
 使用 Node.js + Express + express-handlebars + mongoDB 打造的餐廳清單網頁。
