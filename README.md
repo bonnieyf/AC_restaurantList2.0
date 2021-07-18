@@ -49,7 +49,7 @@ $ npm run seed
 
 ```bash
 $ npm run dev
-Express is running on http://localhost:3000
+App is running on http://localhost:3000
 ```
 
 5. 透過 Browser 打開 [http://localhost:3000](http://localhost:3000)
